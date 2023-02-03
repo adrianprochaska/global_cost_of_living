@@ -305,5 +305,4 @@ poetry.toml
 ### User-specific
 # datasets
 *cost-of-living*.csv
-global-cost-of-living.zip
 fig/
