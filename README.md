@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-Necessary libraries are specified in the [requirements.txt](global_cost_of_living/blob/master/requirements.txt). They will also be installed at the beginning of the main notebook ([explore_dataset](global_cost_of_living/blob/master/explore_dataset.ipynb))
+Necessary libraries are specified in the [requirements.txt](requirements.txt). They will also be installed at the beginning of the main notebook ([explore_dataset](explore_dataset.ipynb))
 
 The code should run with no issues using Python versions 3.*.
 
