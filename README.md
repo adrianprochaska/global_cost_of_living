@@ -24,7 +24,8 @@ for a blog article on medium.
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebooks available here to showcase work related to the above questions.  
+There is one notebooks available here to showcase work related to the above questions.
+Furthermore, you can run a PEP8 codecheck, if you uncomment L33 in cell 2.
 
 There are some an additional `.py` files that run necessary code. 
 
