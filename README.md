@@ -31,7 +31,7 @@ There are some an additional `.py` files that run necessary code.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@adrian_prochaska/this-is-why-you-earn-more-and-pay-less-a58fed47638a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
